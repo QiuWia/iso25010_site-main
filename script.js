@@ -1,0 +1,1 @@
+console.log("Site sobre ISO 25010 carregado com sucesso!");
